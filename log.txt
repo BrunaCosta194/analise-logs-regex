@@ -1,0 +1,11 @@
+
+    2023-10-15 14:23:45 - INFO - Usuário "joao123" fez login com sucesso.
+    2023-10-15 14:24:10 - ERROR - Falha ao conectar ao banco de dados.
+    2023-10-15 14:25:00 - INFO - Usuário "maria456" fez login com sucesso.
+    2023-10-15 14:26:00 - INFO - Usuário "joao123" fez logout com sucesso.
+    2023-10-15 14:30:00 - WARNING - Disco quase cheio.
+    2023-10-15 14:35:00 - INFO - Usuário "admin" fez login com sucesso.
+    2023-10-15 14:40:00 - ERROR - Tentativa de login falhou para "hacker".
+    2023-10-15 14:45:00 - INFO - Usuário "maria456" fez logout com sucesso.
+    2023-10-15 14:46:00 - CRITICAL - Servidor fora do ar.
+    
